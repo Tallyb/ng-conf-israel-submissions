@@ -3,44 +3,35 @@ About The Speaker
 
 ### Name
 
-Oren Rubin
+Tally Barak
 
 ### Biography
 
-Oren have has more than 16 years of experience in the software industry (various roles at IBM, Cadence, Wix, ...) and
-is the founder of Testim.io. Oren's expertise is Web Development and Test Automation, and regularly presents on new
-technologies in those fields. Oren is a community activist, and co-organizes Israel's Selenium, Google-Developer-Group,
-and Ember.js meetups. Oren is an external lecturer at the Techion, Israel institute of Technology where he teaches Web
-Development.
+25 years of experience in software development, product management, UX design and IT consulting. In the last year, I re-discovered the fun of coding as a front end developer using cool web technologies for my startup: morffy. I learn something new everyday and happy to share my insights with others. 
 
 ### Speaker Details
 
-- First Time Speaking: no
-- Email: shexman@gmail.com
-- Phone: 052.3606.996
-- Website [Testim.io](http://testim.io)
+- First Time Speaking: no (Yippi!)
+- Email: tally.barak@gmail.com
+- Phone: Adam has it...
+- Website [www.morffy.com](http://www.morffy.com)
+- github: tallyb
+- twitter: tally_b
 
-You may also include other relevant links: github, LinkedIn, links to past talks, etc. 
-It will also be helpful if you add links to past presentations video recordings but this is optional.
 
 Session Details
 ===============
 
 ### Session Title
 
-Test Automation done right. The holy grail of Continuous Deployment.
+Quickly start with angular using angular-gulp generator
 
 ### Session Abstract
 
-After this talk you will know all there is to know about End-to-End Test Automation. Starting with the basics and
-comparison to Unit Testing, we shall will drill down into what is considered uncharted territory for many developers.
-You will learn the best practises and design patterns, common pitfalls, and most importantly, the full ecosystem and
-how it connects to your existing toolchain. You will learn on different approaches to UI verifications, and see real
-industry use cases and bugs. This talk will dive into Selenium, the most commonly used Open Source library, but will
-overview many frameworks and tools, both free and commercial.
+Angular gulp is a great starting point to your angular project, with many configuration options and tools. I will go over the need for gulp when building an angular project, will show how to install and configure including frequent updates. We will go over the differences between grunt and gulp.  
 
 ### Session Meta Data
 
 - Target Audience: Beginners
-- Length: Full session (45 minutes) or Lighting Talk (15 minutes)
-- Tags: Test-Automation, Continuous Delivery, Selenium, Selenium-Ecosystem
+- Length: Lighting Talk (15 minutes)
+- Tags: gulp, build, scaffolding, angular, grunt
